@@ -2,3 +2,4 @@
 .terraform/*
 backend.json
 credentials.tf
+terraform*
